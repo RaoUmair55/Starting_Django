@@ -1,9 +1,5 @@
 body{
-    background-color: rgb(4, 43, 75);
-    color:white;
+    margin: 0;
+    padding: 0;
 }
 
-h1{
-    text-align: center;
-    font-size: 3rem;
-}
